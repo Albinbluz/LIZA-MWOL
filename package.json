@@ -1,7 +1,7 @@
 {
-  "name": "JulieMwol",
+  "name": "AMG ITACHI",
   "version": "7.3.6",
-  "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+  "description": "ITACHI is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
   "main": "./Julie-Mwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -18,7 +18,7 @@
     "WhatsAsena"
   ],
   "author": "farhan-dqz",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "developer": "@ALBIN / @ITACHI",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"
